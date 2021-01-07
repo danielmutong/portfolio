@@ -1079,15 +1079,28 @@ section.lazy-placeholder:after {
 .cid-slnTjtBfXy .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-slnTuzgzOS {
-  background-image: url("../../../assets/images/dsc-0817-fotor-2000x1333.jpg");
+.cid-slodeR6vhe {
+  background: #ffffff;
 }
-.cid-slnTuzgzOS H1 {
-  text-align: right;
+.cid-slodeR6vhe .image-block {
+  margin: auto;
+  width: 100% !important;
 }
-.cid-slnTuzgzOS .mbr-text,
-.cid-slnTuzgzOS .mbr-section-btn {
-  text-align: right;
+.cid-slodeR6vhe .mbr-figure {
+  margin: 0 auto;
+}
+.cid-slodeR6vhe figcaption {
+  position: relative;
+}
+.cid-slodeR6vhe figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-slodeR6vhe .image-block {
+    width: 100% !important;
+  }
 }
 .cid-slo1G21h2W {
   padding-top: 120px;
